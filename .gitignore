@@ -1,0 +1,5 @@
+relay-lite
+relay-full
+*.sqlite
+*.env
+*.DS_Store
